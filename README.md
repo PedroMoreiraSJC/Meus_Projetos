@@ -1,3 +1,3 @@
 # Fruzo
 pedromoreiraSJC.github.io
-coderhouse
+/coderhouse
