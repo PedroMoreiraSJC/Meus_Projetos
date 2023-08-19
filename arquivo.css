@@ -1,0 +1,30 @@
+section {
+    padding: 50px 30px 20px 60px;
+}
+
+nav {
+    padding: 50px 30px 20px 60px;
+}
+
+header {
+    text-align: center;
+}
+
+article {
+    padding: 50px 30px 20px 60px;
+    }
+
+
+.imag{ 
+    width: 20px;
+}
+
+footer {
+    padding: 50px 30px 20px 60px;
+}
+
+section table {
+   text-align: center;
+   background-color: rgb(194, 235, 101);
+   color: blue;
+}
