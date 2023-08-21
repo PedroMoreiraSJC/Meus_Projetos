@@ -12,10 +12,10 @@ header {
 
 article {
     padding: 50px 30px 20px 60px;
-    }
+}
 
 
-.imag{ 
+.imag {
     width: 20px;
 }
 
@@ -24,7 +24,9 @@ footer {
 }
 
 section table {
-   text-align: center;
-   background-color: rgb(194, 235, 101);
-   color: blue;
+    text-align: center;
+    background-color: rgb(194, 235, 101);
+    color: blue;
 }
+
+   
